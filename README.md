@@ -47,4 +47,4 @@ No JavaScript frameworks were used.
 ---
 
 ## 🚀 How to Run
-   git clone https:[//github.com/your-username/simple-calculator.git](https://yara-khattab.github.io/task-calulator/)
+  [//github.com/your-username/simple-calculator.git](https://yara-khattab.github.io/task-calulator/)
