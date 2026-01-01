@@ -16,7 +16,7 @@ No JavaScript frameworks were used.
 
 ---
 
-## ✨ Features
+## Features
 - Basic arithmetic operations:
   - Addition (+)
   - Subtraction (−)
@@ -38,7 +38,7 @@ No JavaScript frameworks were used.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 - Practice JavaScript logic
 - DOM manipulation
 - Event handling
@@ -47,6 +47,4 @@ No JavaScript frameworks were used.
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https:[//github.com/your-username/simple-calculator.git](https://yara-khattab.github.io/task-calulator/)
